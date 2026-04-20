@@ -79,9 +79,3 @@ java ECommerceSystem
 * Database integration
 * Payment gateway simulation
 * User login system
-
----
-
-## 👨‍💻 Author
-
-Chandni Singh
